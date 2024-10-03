@@ -1,4 +1,4 @@
-# Stock-Price-Prediction
+# Google Stock-Price-Prediction
 Time Series Analysis
 
 
